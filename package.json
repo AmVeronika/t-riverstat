@@ -58,7 +58,7 @@
     "style-dictionary": "^3.9.2",
     "tinycolor2": "^1.6.0",
     "token-transformer": "^0.0.33",
-    "vite": "^5.4.10",
+    "vite": "^5.4.12",
     "vite-bundle-visualizer": "^1.2.1",
     "vite-plugin-clean": "^1.0.0",
     "vite-plugin-clean-css": "^0.0.3",
